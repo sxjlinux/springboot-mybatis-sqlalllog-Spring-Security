@@ -1,0 +1,2 @@
+# springboot-mybatis-sqlalllog-Spring-Security
+此项目包含了springboot目录包结构介绍，通过mybatis plugin插件实现的拦截器打印完整sql语句以及Spring Security进行权限控制的功能
